@@ -15,11 +15,11 @@ Pengguna Bot Yang Selalu Support
 Halo Semua, Sebelumnya Terimakasih Bagi Kalian Yang Sudah Menggunakan Atau Bahkan Mengembangkan Script REST API Ini, Saya Sangat Berterimakasih Atas Segala Dukungan Yang Kalian Berikan, Disini Saya Mohon Bagi Kalian Yang Menggunakan Script REST API Ini Tolong Untuk Tidak Menghapus Credit Yang Tertera Disini, Terimakasihh.
 
 📑 Informasi Lebih Lengkap :
-Whatsapp : wa.me/6283829814737
-Telegram : t.me/ilenwy
-Gmail : Ilenwyy@gmail.com
-Instagram : ilenwy_
-Youtube : Lenwy
+Whatsapp : rawan bug
+Telegram : t.me/Yann1945
+Gmail : patianbusiness@gmail.com
+Instagram : ynnn1945
+Youtube : YannXD
 
 📦 Seputar Informasi :
 Grup Whatsapp : https://chat.whatsapp.com/LJViMFtwsTqLRSIY8aklKP
