@@ -29,6 +29,9 @@ require('./search/rumaysho')(app);
 require('./search/surah')(app);
 require('./search/jadwalsholat')(app);
 
+
+require('./quotes')(app);
+
 // Full Kode Di Github Saya : https://github.com/Lenwyy/
 
 // Endpoint untuk halaman HTML utama
