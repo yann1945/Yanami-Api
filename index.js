@@ -27,7 +27,6 @@ require('./search/goodread')(app);
 require('./search/ypia')(app);
 require('./search/rumaysho')(app);
 require('./search/surah')(app);
-require('./quotes')(app);
 require('./search/jadwalsholat')(app);
 
 // Full Kode Di Github Saya : https://github.com/Lenwyy/
